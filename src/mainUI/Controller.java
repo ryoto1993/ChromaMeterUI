@@ -1,4 +1,4 @@
-package sample;
+package mainUI;
 
 import javafx.beans.property.ReadOnlyBooleanProperty;
 import javafx.fxml.FXML;
