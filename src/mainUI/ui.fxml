@@ -20,6 +20,7 @@
    <children>
       <VBox alignment="TOP_CENTER" prefHeight="200.0" prefWidth="100.0" GridPane.hgrow="ALWAYS" GridPane.valignment="CENTER" GridPane.vgrow="ALWAYS">
          <children>
+            <Pane prefHeight="50.0" prefWidth="200.0" />
             <Label id="main_title_label" fx:id="main_title_label" alignment="CENTER" text="色彩照度計情報" textAlignment="CENTER" />
             <Pane id="title_pane">
                <children>

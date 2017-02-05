@@ -30,6 +30,10 @@ public class Controller {
             ill = ill_br.readLine();
             tmp = tmp_br.readLine();
 
+            if(ill.equals(null) || tmp.equals(null)) {
+                return;
+            }
+
             ill_br.close();
             tmp_br.close();
 
